@@ -6,6 +6,8 @@
 // }
 
 // Fragmento de codigo para imprimir todos los valores de una lista
+// Se USA PARA RECORRER ARRAYS Y NO OBJETOS
+
 let list = ["Hi", "eat", "sleep", "code", "repeat"];
 
 for (let i=0; i < list.length; i++) {
